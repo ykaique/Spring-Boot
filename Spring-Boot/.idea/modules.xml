@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring Boot.iml" filepath="$PROJECT_DIR$/.idea/Spring Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enviadorEmail/enviadorEmail.iml" filepath="$PROJECT_DIR$/enviadorEmail/enviadorEmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listavip/listavip.iml" filepath="$PROJECT_DIR$/listavip/listavip.iml" />
+    </modules>
+  </component>
+</project>
